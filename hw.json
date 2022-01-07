@@ -1,2 +1,7 @@
-"name": "airq",
-"something": "foo"
+"token": "EBS2",
+"ssid": "",
+"pwd": "",
+"cfg_url": "nope!",
+"ota_host": "hoo",
+"ota_port": "8080",
+"ota_url": "http://www.example.com"
